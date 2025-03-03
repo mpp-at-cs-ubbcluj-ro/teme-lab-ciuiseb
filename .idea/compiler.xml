@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="lab2" target="20" />
+      <module name="lab2.main" target="20" />
+      <module name="lab2.test" target="20" />
+      <module name="triathlon" target="20" />
+      <module name="triathlon.main" target="20" />
+      <module name="triathlon.test" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
