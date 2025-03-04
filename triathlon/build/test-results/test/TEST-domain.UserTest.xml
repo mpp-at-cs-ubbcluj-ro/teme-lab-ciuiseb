@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="domain.UserTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-04T07:00:31" hostname="DESKTOP-IFNS5M7" time="0.041">
+  <properties/>
+  <testcase name="testGetters()" classname="domain.UserTest" time="0.028"/>
+  <testcase name="testSetBanned()" classname="domain.UserTest" time="0.002"/>
+  <testcase name="testSetName()" classname="domain.UserTest" time="0.001"/>
+  <testcase name="testSetRole()" classname="domain.UserTest" time="0.001"/>
+  <testcase name="testSetEmail()" classname="domain.UserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
