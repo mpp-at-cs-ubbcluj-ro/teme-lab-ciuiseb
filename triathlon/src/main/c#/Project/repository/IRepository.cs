@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Ro.Mpp.Domain;
 
 namespace Ro.Mpp.Repository
 {

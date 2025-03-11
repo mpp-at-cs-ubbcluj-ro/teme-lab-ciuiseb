@@ -1,9 +1,8 @@
 namespace Ro.Mpp.Domain;
+
+public enum Discipline
 {
-    public enum Discipline
-    {
-        Running,
-        Swimming,
-        Cycling
-    }
+    Running,
+    Swimming,
+    Cycling
 }
